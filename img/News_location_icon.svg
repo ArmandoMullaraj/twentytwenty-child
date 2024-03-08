@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>News_location_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 9.02752294 0 9.02752294 12.8589744 0 12.8589744"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-gold" transform="translate(-712.000000, -4880.000000)">
+            <g id="News-Section" transform="translate(170.000000, 4373.000000)">
+                <g id="Cases">
+                    <g id="Group-4" transform="translate(519.000000, 0.000000)">
+                        <g id="Group-5">
+                            <g id="Group-2" transform="translate(24.000000, 478.000000)">
+                                <g id="News_location_icon" transform="translate(0.000000, 30.000000)">
+                                    <ellipse id="Oval-Copy" stroke="#326598" stroke-width="1.75" cx="9.40366972" cy="9.71153846" rx="9.40366972" ry="9.45512821"></ellipse>
+                                    <g id="Group-3" transform="translate(4.513761, 3.282051)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Clip-2"></g>
+                                        <path d="M4.51376147,7.00008758 C3.26153327,7.00008758 2.24279858,5.94899072 2.24279858,4.65701384 C2.24279858,3.36503695 3.26155762,2.31396521 4.51376147,2.31396521 C5.76596532,2.31396521 6.78470001,3.36506207 6.78470001,4.65703895 C6.78470001,5.94901584 5.76596532,7.00008758 4.51376147,7.00008758 M4.51376147,0 C2.02485995,0 0,2.08913381 0,4.65701384 C0,7.84385834 4.03937433,12.5222703 4.21135427,12.7198769 C4.37289127,12.9055034 4.65492377,12.9051769 4.81616866,12.7198769 C4.9881486,12.5222703 9.02752294,7.84385834 9.02752294,4.65701384 C9.02752294,2.08913381 7.00263864,0 4.51376147,0" id="Fill-1" fill="#326598" mask="url(#mask-2)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

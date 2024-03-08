@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>19CC608B-843B-4725-9F8F-5ED99F909489</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-930.000000, -20.000000)">
+            <g id="CTas" transform="translate(132.072825, 18.983955)">
+                <g id="button-arrow" transform="translate(798.927175, 2.016045)">
+                    <path d="M28,14.5 C28,22.5083293 21.73218,29 14,29 C6.26781996,29 0,22.5083293 0,14.5 C0,6.49167067 6.26781996,0 14,0 C21.73218,0 28,6.49167067 28,14.5" id="Fill-11" fill="#000000"></path>
+                    <path d="M28,14.5 C28,22.5083293 21.73218,29 14,29 C6.26781996,29 0,22.5083293 0,14.5 C0,6.49167067 6.26781996,0 14,0 C21.73218,0 28,6.49167067 28,14.5 Z" id="Stroke-13" stroke="#FFCC00"></path>
+                    <line x1="22.7655294" y1="14.5" x2="17.4799295" y2="9.0256287" id="Stroke-15" stroke="#FFFFFF" stroke-linecap="square"></line>
+                    <line x1="17.4798548" y1="19.9745261" x2="22.7654546" y2="14.5001548" id="Stroke-17" stroke="#FFFFFF" stroke-linecap="square"></line>
+                    <line x1="5.23439586" y1="14.5" x2="21.6592984" y2="14.5" id="Stroke-19" stroke="#FFFFFF" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

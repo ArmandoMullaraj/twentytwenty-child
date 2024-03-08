@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="132px" viewBox="0 0 155 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Aboutus_refurbishment_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us---History" transform="translate(-1361.000000, -2014.000000)" stroke-width="5">
+            <g id="Aboutus_refurbishment_icon" transform="translate(1364.000000, 2017.000000)">
+                <path d="M0,109 C0,100.746929 6.80025498,92.9095152 17,92.9095152 L17,0 C6.80025498,0 0,7.7659354 0,16.0190062 L0,109 Z" id="Stroke-1" stroke="#747474"></path>
+                <path d="M16.195837,20 L149,20 L149,126 L16.2687119,126 C7.28384525,126 0,118.623908 0,109.939175" id="Stroke-3" stroke="#747474"></path>
+                <polyline id="Stroke-5" stroke="#B49464" stroke-linecap="round" points="74 61.866585 74 88 39 88 39 39 74 39 74 52.0667075"></polyline>
+                <polyline id="Stroke-7" stroke="#B49464" stroke-linecap="round" points="74 39 126 39 126 71 113 71"></polyline>
+                <polyline id="Stroke-9" stroke="#B49464" stroke-linecap="round" points="101 71 114 71 114 106 62 106 62 86.9087113"></polyline>
+                <line x1="91" y1="70.5" x2="74" y2="70.5" id="Stroke-11" stroke="#B49464" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="137px" viewBox="0 0 134 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Aboutus_development_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 136 132.546436 136 132.546436 0.8075 0 0.8075"></polygon>
+    </defs>
+    <g id="About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us---History" transform="translate(-893.000000, -2007.000000)">
+            <g id="Aboutus_development_icon" transform="translate(894.000000, 2007.000000)">
+                <g id="Group-5">
+                    <polygon id="Stroke-1" stroke="#747474" stroke-width="5" points="41.8377077 2.932415 90.7075346 2.932415 90.7075346 15.112915 41.8377077 15.112915"></polygon>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Stroke-3" stroke="#B49464" stroke-width="5" stroke-linecap="round" mask="url(#mask-2)" points="60.1645962 133.875 75.4357244 133.875 75.4357244 109.51315 60.1645962 109.51315"></polygon>
+                </g>
+                <polyline id="Stroke-6" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="48 70 48 58 60 58 60 70"></polyline>
+                <polyline id="Stroke-7" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="48 94 48 82 60 82 60 94"></polyline>
+                <polyline id="Stroke-8" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="76 70 76 58 88 58 88 70"></polyline>
+                <polyline id="Stroke-9" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="48 46 48 34 60 34 60 46"></polyline>
+                <polyline id="Stroke-10" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="76 46 76 34 88 34 88 46"></polyline>
+                <polyline id="Stroke-11" stroke="#B49464" stroke-width="5" stroke-linecap="round" points="76 94 76 82 88 82 88 94"></polyline>
+                <polyline id="Stroke-12" stroke="#747474" stroke-width="5" points="23 134 2 134 2 52 23 52"></polyline>
+                <polyline id="Stroke-14" stroke="#747474" stroke-width="5" points="11 52 11 40 23 40"></polyline>
+                <polyline id="Stroke-15" stroke="#747474" stroke-width="5" points="112 134 130 134 130 82 112 82"></polyline>
+                <polyline id="Stroke-17" stroke="#747474" stroke-width="5" points="124 82 124 70 112 70"></polyline>
+                <polygon id="Stroke-18" stroke="#747474" stroke-width="5" points="33 134 103 134 103 15 33 15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

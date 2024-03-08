@@ -1,0 +1,26 @@
+{
+  "name": "imrandesigns",
+  "version": "1.0.0",
+  "description": "A portfolio website",
+  "main": "/index",
+  "author": "Imran Hussain <mihussain@hotmail.co.uk",
+  "dependencies": {
+    "browser-sync": "^2.28.3",
+    "gulp": "^4.0.2",
+    "gulp-include": "^2.4.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-requirejs-optimize": "^1.3.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "jshint": "^2.13.6",
+    "jshint-stylish": "^2.2.1",
+    "natives": "^1.1.6",
+    "sass": "^1.58.3"
+  }
+}

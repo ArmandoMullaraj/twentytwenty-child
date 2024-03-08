@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9A891621-D618-4C28-BED3-29FEBD8BCE4E</title>
+    <defs>
+        <path d="M19.8369136,39.5995088 C8.88132683,39.5995088 0,30.7352606 0,19.7997544 C0,8.8642482 8.88132683,0 19.8369136,0 C21.3282861,0 22.7812297,0.164288243 24.1785667,0.475724845 C33.0452824,2.45192657 39.6730256,10.3529962 39.6730256,19.7997544 C39.6730256,30.7352606 30.7916988,39.5995088 19.8369136,39.5995088 Z" id="path-1"></path>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-130.000000, -1343.000000)">
+            <g id="WHY-PMJ-MOJ" transform="translate(-35.000000, 1011.000000)">
+                <g id="gold-arrow" transform="translate(166.000000, 333.000000)">
+                    <g id="Fill-2" stroke-width="1.33333333">
+                        <use stroke="#979797" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M39.6730256,19.7997544 C39.6730256,30.7352606 30.7916988,39.5995088 19.8369136,39.5995088 C8.88132683,39.5995088 0,30.7352606 0,19.7997544 C0,8.8642482 8.88132683,0 19.8369136,0 C30.7916988,0 39.6730256,8.8642482 39.6730256,19.7997544 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="0.800022401"></path>
+                    <line x1="32.2564244" y1="19.7997544" x2="24.7672883" y2="12.3243451" id="Stroke-4" stroke="#FFFFFF" stroke-width="0.800022401" stroke-linecap="square"></line>
+                    <line x1="24.767128" y1="27.2752437" x2="32.2562641" y2="19.7998344" id="Stroke-5" stroke="#FFFFFF" stroke-width="0.800022401" stroke-linecap="square"></line>
+                    <line x1="7.41676149" y1="19.7997544" x2="30.6888674" y2="19.7997544" id="Stroke-6" stroke="#FFFFFF" stroke-width="0.800022401" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
